@@ -9,7 +9,7 @@ To run the app there is need to provide your client id, client secret and mongoA
 		
 	var config = {
     MY_ID : 'your_id', 
-	MY_KEY : 'your_secret_key  //Github key and secret
+	MY_KEY : 'your_secret_key'  //Github key and secret
 	}  
 	var data_config = {
 	API_KEY : 'your_key'   //mongoAPI key
